@@ -1,3 +1,12 @@
+0.19.0-beta1 / 10-31-2016
+=========================
+- Update Chromium to [55.0.2883.28](https://googlechromereleases.blogspot.com/2016/10/beta-channel-update-for-desktop_26.html)
+
+0.18.4 / 10-31-2016
+===================
+- Support Node.js in Web Workers [(#494)](https://github.com/nwjs/nw.js/issues/494)
+- [docs] --enable-node-worker in Command Line Options
+
 0.18.3 / 10-26-2016
 ===================
 - Update Node.js to [7.0.0](https://nodejs.org/en/blog/release/v7.0.0/)
